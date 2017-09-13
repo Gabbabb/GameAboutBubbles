@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubbles", "Bubbles\Bubbles\Bubbles.csproj", "{38CF3541-F558-4971-93A1-FB646AD9DCCC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BubblesContent", "Bubbles\BubblesContent\BubblesContent.contentproj", "{9975C75B-ACA5-452D-A36A-B69B1E9ABD48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38CF3541-F558-4971-93A1-FB646AD9DCCC}.Debug|x86.ActiveCfg = Debug|x86
+		{38CF3541-F558-4971-93A1-FB646AD9DCCC}.Debug|x86.Build.0 = Debug|x86
+		{38CF3541-F558-4971-93A1-FB646AD9DCCC}.Release|x86.ActiveCfg = Release|x86
+		{38CF3541-F558-4971-93A1-FB646AD9DCCC}.Release|x86.Build.0 = Release|x86
+		{9975C75B-ACA5-452D-A36A-B69B1E9ABD48}.Debug|x86.ActiveCfg = Debug|x86
+		{9975C75B-ACA5-452D-A36A-B69B1E9ABD48}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
